@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+
+#nav{
+    width: 90%;
+    max-width: 900px;
+    margin: 80px auto 30px auto;
+}
+.nav_item{
+    font-size: 1.2em;
+    color: #333333;
+    margin-right: 2em;
+    float: left;
+    width: 6em;
+    text-align: center;
+    line-height: 2;
+    border: 1px solid #cccccc;
+    border-radius: 30px;
+    display: inline-block;
+}
+.nav_item:hover{
+    background-color:#1A9FFF;
+    color: #ffffff;
+    border-color: #1A9FFF;
+    text-decoration: none;
+}
