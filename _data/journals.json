@@ -1,0 +1,24 @@
+{
+  "journal" : {
+    "cite"    : "Luo2014",
+    "author"  : "Wuqiong Luo and Wee Peng Tay and Mei Leng",
+    "title"   : "How to identify an infection source with limited observations",
+    "journal" : "IEEE J. Sel. Top. Sign. Proces.",
+    "year"    : 2014,
+    "volume"  : 8,
+    "number"  : 4,
+    "month"   : "Aug",
+    "pages"   : "586-597"
+  },
+  "journal" : {
+    "cite"    : "Luo2013",
+    "author"  : "Wuqiong Luo and Wee Peng Tay and Mei Leng",
+    "title"   : "Identifying infection sources and regions in large networks",
+    "journal" : "IEEE Trans. Signal Process.",
+    "year"    : 2013,
+    "volume"  : 61,
+    "number"  : 11,
+    "month"   : "Jun",
+    "pages"   : "2850-2865"
+  }
+}

@@ -1,0 +1,57 @@
+@charset "UTF-8";
+/*------------------------------------ icons ------------------------------------*/
+@font-face {
+    font-family: 'icomoon';
+    src: url('../_fonts/icomoon.svg?version=1.2') format('svg'), url('../_fonts/icomoon.woff?version=1.2') format('woff'), url('../_fonts/icomoon.eot?version=1.2') format('embedded-opentype'), url('../_fonts/icomoon.ttf?version=1.2') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class*="icon-"] {
+    font-family: 'icomoon';
+    font-style: normal;
+    speak: none;
+}
+
+.icon-arrow-up:before {
+    content: "\e600";
+}
+
+
+
+
+/*------------------------------------ font styles ------------------------------------*/
+body {
+    font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    height: auto;
+}
+
+html, body, div, div a, a, nav, section, article, header, aside{
+    padding:0;
+    margin:0;
+    border:0;
+    list-style:none;
+    text-decoration: none;
+}
+
+::selection {
+    background-color: #1A9FFF;
+    color: #fff;
+}
+
+a {
+    color: #1A9FFF;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+body{
+    padding-bottom: 150px;
+}
+.clear_both{
+    clear: both;
+}

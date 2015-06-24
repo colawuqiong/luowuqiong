@@ -1,0 +1,106 @@
+@charset "UTF-8";
+
+
+
+section#header{
+    height: 500px;
+    overflow: hidden;
+    position: relative;
+    background-color:rgba(0,0,0,0.5);
+}
+
+#header_background{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    overflow: hidden;
+    z-index: -1;
+}
+#header_background img{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+
+.section_wrap{
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#intro{
+    padding-top: 150px;
+    font-size: 44px;
+    color: #ffffff;
+}
+.email{
+    font-size: 24px;
+    font-weight: lighter;
+    padding-top: 15px;
+}
+.email a{
+    color: #ffffff;
+}
+.center_section{
+    width: 90%;
+    max-width: 900px;
+    margin: 30px auto 30px auto;
+    color: #333333;
+    line-height: 1.45;
+}
+
+.section_header{
+    font-size: 28px;
+    line-height: 1;
+    padding-left: 15px;
+    border-left: 8px solid hsl(26,100%,60%);
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+#education_table td{
+    padding-bottom: 20px;
+    vertical-align: top;
+}
+
+.first_td{
+    width: 160px;
+}
+
+.section_subheader{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+@media only screen and (min-width: 671px) and (max-width: 840px) {
+    section#header{
+        height: 400px;
+    }
+
+    #intro{
+        padding-top: 100px;
+        font-size: 40px;
+    }
+    .email{
+        font-size: 22px;
+        padding-top: 15px;
+    }
+}
+
+@media only screen and (max-width: 670px) {
+    section#header{
+        height: 200px;
+    }
+
+    #intro{
+        padding-top: 50px;
+        font-size: 22px;
+    }
+    .email{
+        font-size: 16px;
+        padding-top: 15px;
+    }
+}

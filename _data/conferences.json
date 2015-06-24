@@ -1,0 +1,48 @@
+{
+  "conference" : {
+    "cite"    : "Luo2015dsp",
+    "author"  : "Wuqiong Luo and Wee Peng Tay and Mei Leng and Maria Katrina Guevara",
+    "title"   : "On the universality of the Jordan center for estimating the rumor source in a social network",
+    "booktitle" : "IEEE Int. Conf. on Digital Signal Processing",
+    "year"    : 2015,
+    "month"   : "Jul",
+    "location": "Singapore"
+  },
+  "conference" : {
+    "cite"    : "Luo2013globalsip",
+    "author"  : "Wuqiong Luo and Wee Peng Tay",
+    "title"   : "Estimating infection sources in a network with incomplete observations",
+    "booktitle" : "IEEE Global Conf. on Signal and Information Processing",
+    "year"    : 2013,
+    "month"   : "Dec",
+    "location": "Austin, USA"
+  },
+  "conference" : {
+    "cite"    : "Luo2013icassp",
+    "author"  : "Wuqiong Luo and Wee Peng Tay",
+    "title"   : "Finding an infection source under the SIS model",
+    "booktitle" : "IEEE Int. Conf. Acoustics, Speech, and Signal Processing",
+    "year"    : 2013,
+    "month"   : "May",
+    "location": "Vancouver, Canada"
+  },
+  "conference" : {
+    "cite"    : "Luo2012asilomar",
+    "author"  : "Wuqiong Luo and Wee Peng Tay",
+    "title"   : "Identifying multiple infection sources in a network",
+    "booktitle" : "Asilomar Conference on Signals, Systems, and Computers",
+    "year"    : 2012,
+    "month"   : "Nov",
+    "location": "Califonia, USA",
+    "note"    : "Best Student Paper Award"
+  },
+  "conference" : {
+    "cite"    : "Luo2012secon",
+    "author"  : "Wuqiong Luo and Wee Peng Tay",
+    "title"   : "Identifying infection sources in large tree networks",
+    "booktitle" : "IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks",
+    "year"    : 2012,
+    "month"   : "Jun",
+    "location": "Seoul, Korea"
+  }
+}
